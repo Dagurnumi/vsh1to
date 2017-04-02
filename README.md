@@ -1,5 +1,5 @@
 # vsh1to
-## Hópverkefni haust 2016. 
+## Hópverkefni vor 2017. 
 ### Hér koma tenglar á vefsíður hópanna.
 
 ## Hópverkefni haust 2016. 
