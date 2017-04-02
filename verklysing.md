@@ -40,6 +40,6 @@ td. „nonni2902“ – ekki nota óljós heiti eins og „duddi_gaur“ eða �
 #### Námsmat 20% 
 *	5%  Viðvera og þáttaka í hópverkefni 1	
 *	15% Hópverkefni
-	**	7%  Vinnuframlag, miðast við samantekt um verkáætlun á GitHub Wiki skrá
-	**	8%  Vefsíða	
+		**	7%  Vinnuframlag, miðast við samantekt um verkáætlun á GitHub Wiki skrá
+		**	8%  Vefsíða	
 
