@@ -38,8 +38,8 @@ td. „nonni2902“ – ekki nota óljós heiti eins og „duddi_gaur“ eða �
 #### <i>Gangi ykkur vel</i>
 
 #### Námsmat 20% 
-*	5%  Viðvera og þáttaka í hópverkefni 1	
-*	15% Hópverkefni
-		** 7%  Vinnuframlag, miðast við samantekt um verkáætlun
-		** 8%  Vefsíða	á tsuts.tskoli.is
+* 5%  Viðvera og þáttaka í hópverkefni 1	
+* 15% Hópverkefni 2 
+  ** 7%  Vinnuframlag, miðast við samantekt um verkáætlun
+  ** 8%  Vefsíða á tsuts.tskoli.is
 
