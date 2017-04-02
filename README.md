@@ -1,6 +1,6 @@
 # VSH1TÖ
-<a href='verklysing.md'>Verklýsing hópverkefnis</a>
-Upplýsingar um Git og GitHub eru í Wiki skrá
+<a href='verklysing.md'>Verklýsing hópverkefnis</a><br>
+Upplýsingar um Git og GitHub eru í Wiki skrá 
 
 ## Hópverkefni VSH1TÖ vor 2017.
 ### Hér koma tenglar á vefsíður hópanna. 
@@ -8,7 +8,6 @@ Upplýsingar um Git og GitHub eru í Wiki skrá
 ..... í vinnslu ......
 
 ## Hópverkefni VSH1TÖ haust 2016.
-### Hér koma tenglar á vefsíður hópanna. 
 
 * **Grand Theft Auto** 
   * Daníel Arnarsson

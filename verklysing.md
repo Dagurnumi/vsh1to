@@ -35,9 +35,9 @@ td. „nonni2902“ – ekki nota óljós heiti eins og „duddi_gaur“ eða �
 	2.	Vefsíða er sett á tsuts.tskoli.is/2t/..... (ykkar vefsvæði)
 	3.	Tenglum á geymsluna og vefsíðuna er skilað í INNU/VSH1TÖ/Hópverkefni. 
 
-<i>Gangi ykkur vel</i>
+#### <i>Gangi ykkur vel</i>
 
-Námsmat 20% 
+#### Námsmat 20% 
 *	5%  Viðvera og þáttaka í hópverkefni 1	
 *	15% Hópverkefni
 	**	7%  Vinnuframlag, miðast við samantekt um verkáætlun á GitHub Wiki skrá
