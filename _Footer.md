@@ -1,1 +1,0 @@
-&copy; 2017 Guðmundur Jón Guðjónsson
