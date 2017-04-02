@@ -1,6 +1,6 @@
 # VSH1TÖ
 <a href='verklysing.md'>Verklýsing hópverkefnis</a><br>
-Upplýsingar um Git og GitHub eru í Wiki skrá 
+<a href='https://github.com/Tskoli/vsh1to/wiki'>Upplýsingar um Git og GitHub eru hér í Wiki skrá </a>
 
 ## Hópverkefni VSH1TÖ vor 2017.
 ### Hér koma tenglar á vefsíður hópanna. 
