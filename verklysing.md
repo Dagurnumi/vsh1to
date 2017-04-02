@@ -3,7 +3,7 @@
 Í lokaverkefni VSH1TÖ eiga nemendur að stofna reikning á GitHub.   Nemendur mynda 2 manna hópa og búa til geymslu (repository) á GitHub og geyma hópverkefnið þar.    
 
 #### Skráning á GitHub
-Nemendur byrja á því að stofna eigin reikning á GitHub.com og 
+
 Fylgið eftirfarandi leiðbeiningum við skráninguna
 
 *	Notendanafn – notið nafnið ykkar,  ef það er frátekið er hægt að bæta afmælisdegi við, 
@@ -40,6 +40,6 @@ td. „nonni2902“ – ekki nota óljós heiti eins og „duddi_gaur“ eða �
 #### Námsmat 20% 
 *	5%  Viðvera og þáttaka í hópverkefni 1	
 *	15% Hópverkefni
-		**	7%  Vinnuframlag, miðast við samantekt um verkáætlun á GitHub Wiki skrá
-		**	8%  Vefsíða	
+		** 7%  Vinnuframlag, miðast við samantekt um verkáætlun
+		** 8%  Vefsíða	á tsuts.tskoli.is
 
