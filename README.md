@@ -1,4 +1,6 @@
 # VSH1TÖ
+<a href='verklysing.md'>Verklýsing hópverkefnis</a>
+
 ## Hópverkefni VSH1TÖ vor 2017.
 ### Hér koma tenglar á vefsíður hópanna. 
 
@@ -7,18 +9,6 @@
 ## Hópverkefni VSH1TÖ haust 2016.
 ### Hér koma tenglar á vefsíður hópanna. 
 
-* **Counter Strike**
-   * Alexander Smári Erlingsson
-   * Ágúst Örn Eiðsson
-   * Bergþór Ingi Birgisson
-   * https://github.com/agustorne/hjopvejerkefni-2/wiki
-   * http://tsuts.tskoli.is/2t/3107002230/Hpverk/
-* **Tölvuleikir** 
-   * Andri Snær Didriksen Ásmundsson
-   * Davíð Bjarki Jónsson
-   * Ísar Daði Pálsson
-   * https://github.com/IsarDadi/WoW-verkefni
-   * http://tsuts.tskoli.is/2t/1804003030/H%C3%B3pverkefni/index.html
 * **Grand Theft Auto** 
   * Daníel Arnarsson
   * Hafsteinn Birkisson
