@@ -21,7 +21,7 @@ td. „nonni2902“ – ekki nota óljós heiti eins og „duddi_gaur“ eða �
 
 
 #### Hópverkefnið
-Búið til vefsíðu sem fjallar um athyglisverðan tölvuleik.  Á vefsíðunni þurfa eftirtalinn atriði að koma fram:
+* Búið til vefsíðu sem fjallar um athyglisverðan tölvuleik.  Á vefsíðunni þurfa eftirtalinn atriði að koma fram:
 	1.	Hvaða tegund af tölvuleik er um að ræða
 	2.	Hvenær var hann búinn til 
 	3.	Hverjir eru höfundar og framleiðendur
@@ -30,12 +30,12 @@ Búið til vefsíðu sem fjallar um athyglisverðan tölvuleik.  Á vefsíðunni
 	6.	Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn
 	7.	Ritgerðin á að vera á íslensku eða á móðurmáli nemenda.
 	8.	Setjið myndefni á vefsíðuna til að styðja framsetninguna.
-Verkefnaskil:	
+* Verkefnaskil:	
 	1.	Öllum vinnugögnum er skilað í Github geymslu. 
 	2.	Vefsíða er sett á tsuts.tskoli.is/2t/..... (ykkar vefsvæði)
 	3.	Tenglum á geymsluna og vefsíðuna er skilað í INNU/VSH1TÖ/Hópverkefni. 
 
-Gangi ykkur vel
+<i>Gangi ykkur vel</i>
 
 Námsmat 20% 
 *	5%  Viðvera og þáttaka í hópverkefni 1	
