@@ -15,10 +15,10 @@ td. „nonni2902“ – ekki nota óljós heiti eins og „duddi_gaur“ eða �
 *	NemandI stofnar geymslu og deilir ritstjórarétti að henni til samstarfsaðila síns (Contributor)  
 *	Á forsíðu geymslunnar sem nefnist „README.md“ á að skrá stytta útgáfu af hópverkefninu og vísa síðan í vefsíðuna á miðlaranum okkar tsuts.tskoli.is.
 *	Búið til 2 skrár í Wiki þar sem fram kemur 
-	** Verkefnaáætlun og verkskipting og 
-	** Niðurstaða samvinnu hvernig gekk verkáætlunin eftir
-	** Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum Github reikningi. 
-	**	Heimildaskrá
+	* Verkefnaáætlun og verkskipting og 
+	* Niðurstaða samvinnu hvernig gekk verkáætlunin eftir
+	* Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum Github reikningi. 
+	* Heimildaskrá
 *	Öll vinnugögn sem tilheyra hópverkefninu eiga að vera í Github geymslunni. 
 
 
@@ -42,6 +42,6 @@ td. „nonni2902“ – ekki nota óljós heiti eins og „duddi_gaur“ eða �
 #### Námsmat 20% 
 * 5%  Viðvera og þáttaka í hópverkefni 1	
 * 15% Hópverkefni 2 
-<br>  ** 7%  Vinnuframlag, miðast við samantekt um verkáætlun
-<br>  ** 8%  Vefsíða á tsuts.tskoli.is
+	* 7%  Vinnuframlag, miðast við samantekt um verkáætlun
+	* 8%  Vefsíða á tsuts.tskoli.is
 
